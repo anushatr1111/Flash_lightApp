@@ -42,11 +42,14 @@ xml
 
 📝 Code Structure
 /com.example.flashlightapp
+│
 ├── /ui
 │   ├── MainActivity.kt       # Main entry point
 │   └── theme/               # Theme configuration
+│
 ├── /model
 │   └── FlashlightManager.kt  # Flashlight logic
+│
 └── AndroidManifest.xml
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first.
